@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+textarea,
+button {
+    box-sizing: border-box;
+    width: 100%;
+    vertical-align:bottom;
+}
+textarea {
+    height: 5em;
+}

@@ -2,3 +2,5 @@
 github Page : https://github.com/smkyoto/smkyoto.github.io
 
 
+git config --global user.name githubアカウントのユーザー名
+git config --global user.email githubアカウントのメールアドレス
