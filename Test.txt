@@ -4,3 +4,16 @@ github Page : https://github.com/smkyoto/smkyoto.github.io
 
 git config --global user.name githubアカウントのユーザー名
 git config --global user.email githubアカウントのメールアドレス
+
+166188849+smkyoto@users.noreply.github.com
+
+
+
+
+Microsoft Windows [Version 10.0.19045.4239]
+(c) Microsoft Corporation. All rights reserved.
+C:\Users\user>git config --global user.name SMKyoto
+C:\Users\user>git config --global user.email 166188849+smkyoto@users.noreply.github.com
+C:\Users\user>
+
+
