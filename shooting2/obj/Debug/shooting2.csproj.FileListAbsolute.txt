@@ -1,0 +1,15 @@
+C:\Users\Shirai\Documents\C#用\shooting2\obj\Debug\shooting2.exe
+C:\Users\Shirai\Documents\C#用\shooting2\obj\Debug\shooting2.pdb
+C:\Users\Shirai\Documents\C#用\shooting2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shirai\Documents\C#用\shooting2\obj\Debug\Shooting.resources
+C:\Users\Shirai\Documents\C#用\shooting2\obj\Debug\shooting2.csproj.GenerateResource.Cache
+C:\Users\Shirai\Documents\C#用\shooting2\bin\Debug\shooting2.exe
+C:\Users\Shirai\Documents\C#用\shooting2\bin\Debug\shooting2.pdb
+C:\Users\User\Downloads\shooting2\bin\Debug\shooting2.exe
+C:\Users\User\Downloads\shooting2\bin\Debug\shooting2.pdb
+C:\Users\User\Downloads\shooting2\obj\Debug\shooting2.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\shooting2\obj\Debug\Shooting.resources
+C:\Users\User\Downloads\shooting2\obj\Debug\shooting2.csproj.GenerateResource.cache
+C:\Users\User\Downloads\shooting2\obj\Debug\shooting2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\shooting2\obj\Debug\shooting2.exe
+C:\Users\User\Downloads\shooting2\obj\Debug\shooting2.pdb

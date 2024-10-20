@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shooting2", "shooting2.csproj", "{10698CC8-EED5-4C03-83ED-EBE6B520059C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10698CC8-EED5-4C03-83ED-EBE6B520059C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10698CC8-EED5-4C03-83ED-EBE6B520059C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10698CC8-EED5-4C03-83ED-EBE6B520059C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10698CC8-EED5-4C03-83ED-EBE6B520059C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
